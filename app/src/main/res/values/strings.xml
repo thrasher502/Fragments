@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="hint1">First number here</string>
+    <string name="hint2">Second number here</string>
+    <string name="hint3">Result</string>
+    <string name="ButtonText">Multiply</string>
+</resources>
